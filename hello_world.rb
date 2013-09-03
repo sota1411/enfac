@@ -1,0 +1,1 @@
+# coding: utf-8print("Hello,\nRuby\n!\n")print("今後僕が添削した場合、こんな感じに表示されます")
