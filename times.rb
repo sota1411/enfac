@@ -1,3 +1,4 @@
+# GOOD!
 10.times do
-print"Hello,\n"
+  print "Hello,\n"
 end
