@@ -1,2 +1,2 @@
-/shimaushi/ =~ "shimatani"
-/shimauchi/ =~ "shimauchi"
+/shimaushi/ =~ 'shimatani'
+/shimauchi/ =~ 'shimauchi'
